@@ -1,1 +1,3 @@
-# go-sync-toped# test
+# go-sync-toped#
+
+Auto sync github repo
