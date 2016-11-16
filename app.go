@@ -4,7 +4,7 @@ import (
 
     "github.com/google/go-github/github"
 	"log"
-	"github.com/darwinsimon/go-sync-toped/src"
+	"github.com/masjono/go-sync/src"
 	"net/http"
     "golang.org/x/oauth2"
 )
